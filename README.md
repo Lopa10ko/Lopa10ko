@@ -1,7 +1,8 @@
 ### Hi there 👋
 <!--![main](https://github.com/Lopa10ko/Lopa10ko/blob/main/main.png)-->
+
 ![main](https://github.com/Lopa10ko/Lopa10ko/blob/main/main_00001.svg)
-<img src="https://github.com/Lopa10ko/Lopa10ko/blob/main/main_00001.svg">
+
 <!--
 **Lopa10ko/Lopa10ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
