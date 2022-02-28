@@ -1,5 +1,6 @@
-### **Lopa10ko G.** here 👋 and it just so happens that I'm... 
+### **Lopa10ko G.** here 👋 
 -----------------------------------------------------------------------------------
+and it just so happens that I'm...\
 🎓 currently studying @ **ITMO Uni** (*Information Systems and Technologies engineering*)\
 🔭 looking for **internship** \
 🌱 spending my time productively and fruitfully \
