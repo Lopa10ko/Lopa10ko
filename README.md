@@ -7,6 +7,6 @@ and it just so happens that I'm...\
 ⚡ Fun fact: check Fredi's profile to figure out where the inspiration comes from 
 
 
-<div align="center">
+<!-- <div align="center">
    <img src="https://github.com/Lopa10ko/Lopa10ko/blob/main/main_00001.svg" />
-</div>
+</div> -->
