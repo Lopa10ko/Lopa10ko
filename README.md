@@ -1,4 +1,4 @@
-### **Lopa10ko G.** here 👋 
+### **lopa10ko** here 👋 
 -----------------------------------------------------------------------------------
 and it just so happens that I'm...\
 🎓 currently studying @ **ITMO Uni** (*Information Systems and Technologies engineering*)\
