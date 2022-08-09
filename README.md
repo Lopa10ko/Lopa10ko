@@ -1,10 +1,17 @@
-### **lopa10ko** here 👋 
------------------------------------------------------------------------------------
-and it just so happens that I'm...\
-🎓 currently studying @ **ITMO Uni** (*Information Systems and Technologies engineering*)\
-🔭 looking for **internship** \
-🌱 spending my time productively and fruitfully \
-[Lopa10ko CV](https://github.com/Lopa10ko/Lopa10ko/blob/main/CV.pdf)
+<div align='center'><b>lopa10ko</b> here 👋 </div>
+
+---
+
+<div align='center'>
+<ul>
+   <code>🎓 <b>ITMO Uni</b> (<i>Information Systems and Technologies Department</i>)</code>
+
+   <code>🔭 looking for **internship**</code> 
+
+   [**Lopa10ko CV**](https://github.com/Lopa10ko/Lopa10ko/blob/main/CV.pdf)
+</ul>
+</div>
+
 
 <!-- \ -->
 <!-- ⚡ Fun fact: check Fredi's profile to figure out where the inspiration comes from  -->
