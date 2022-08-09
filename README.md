@@ -6,15 +6,12 @@
 <ul>
    <code>🎓 <b>ITMO Uni</b> (<i>Information Systems and Technologies Department</i>)</code>
 
-   <code>🔭 looking for **internship**</code> 
+   <code>🔭 looking for <b>Software Engineering internship</b></code> 
 
    [**Lopa10ko CV**](https://github.com/Lopa10ko/Lopa10ko/blob/main/CV.pdf)
 </ul>
 </div>
 
-
-<!-- \ -->
-<!-- ⚡ Fun fact: check Fredi's profile to figure out where the inspiration comes from  -->
 
 
 <!-- <div align="center">
