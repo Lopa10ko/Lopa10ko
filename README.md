@@ -8,7 +8,7 @@
 
    <code>🔭 looking for <b>Software Engineering internship</b></code> 
 
-   [**Lopa10ko CV**](https://github.com/Lopa10ko/Lopa10ko/blob/main/CV.pdf)
+   [<b>👉🏼Lopa10ko CV👈🏼</b>](https://github.com/Lopa10ko/Lopa10ko/blob/main/CV.pdf)
 </ul>
 </div>
 
