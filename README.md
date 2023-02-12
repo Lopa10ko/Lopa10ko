@@ -1,7 +1,7 @@
 <div align='center'>
 <!--    <b>lopa10ko</b> here 👋  -->
    
-   [<b>👉🏼Lopa10ko CV👈🏼</b>](https://github.com/Lopa10ko/Lopa10ko/blob/main/CV.pdf)
+   [<b>👉🏼Lopa10ko CV👈🏼</b>](https://github.com/Lopa10ko/Lopa10ko/blob/main/CVLopatenko.pdf)
 </div>
 
 ---
