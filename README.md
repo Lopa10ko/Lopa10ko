@@ -8,7 +8,7 @@
 
 <div align='center'>
 <ul>
-   <code>🎓 <b>ITMO Uni</b> (<a href=https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm>Information Systems and Technologies Department</a>)</code>
+   <code>🎓 <b>ITMO Uni</b> (<a href=https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm>Information Systems and Technologies Department</a>)</code>
 
    <code>🔭 looking for <b>Software Engineering internship</b></code> 
 
