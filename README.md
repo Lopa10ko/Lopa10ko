@@ -21,6 +21,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=lopa10ko&show_icons=true&theme=dark&locale=en" alt="lopa10ko" width="40%" style="align-self:auto;"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopa10ko&theme=dark" alt="lopa10ko" width="40%" style="align-self:auto;"/>
    </div>
-   
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopa10ko&label=Views&color=0e75b6&style=flat" alt="lopa10ko" /> </p>
+
+   <br><br>
+
+   <p><a href="https://github.com/Lopa10ko/Lopa10ko/blob/main/Lopatenko_CV.pdf">Here is my CV!</a></p>
+
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lopa10ko&label=Views&color=0e75b6&style=flat" alt="lopa10ko" /> </p>
 </div>
