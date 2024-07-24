@@ -22,9 +22,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopa10ko&theme=dark" alt="lopa10ko" width="40%" style="align-self:auto;"/>
    </div>
 
-   <br><br>
+   <br>
 
-   <p><a href="https://github.com/Lopa10ko/Lopa10ko/blob/main/Lopatenko_CV.pdf">Here is my CV!</a></p>
-
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lopa10ko&label=Views&color=0e75b6&style=flat" alt="lopa10ko" /> </p>
+   <p align="center">
+      <a href="https://github.com/Lopa10ko/Lopa10ko/blob/main/Lopatenko_CV.pdf">
+         <img alt="CV" src="https://img.shields.io/badge/Check_out-Lopa10ko's_CV-purple?style=plastic">
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=lopa10ko&label=Views&color=0e75b6&style=plastic" alt="lopa10ko" />
+   </p>
 </div>
